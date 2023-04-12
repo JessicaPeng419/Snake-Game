@@ -17,7 +17,7 @@ int main() {
   LeaderBoard Leaderboard;
   Player player;
   player.enter_name();
-  std::cout << "Game Starts! \n \n";
+  std::cout << "Snake Game Starts! \n \n";
 
   Renderer renderer(kScreenWidth, kScreenHeight, kGridWidth, kGridHeight);
   Controller controller;
