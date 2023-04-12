@@ -47,3 +47,7 @@ This work is licensed under a
 
 
 
+## Improving:
+
+1. A leaderboard recording the top 10 scores.
+2. Add an operator that gives player extra score points by generating extra food.
