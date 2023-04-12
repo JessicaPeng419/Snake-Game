@@ -47,7 +47,17 @@ This work is licensed under a
 
 
 
-## Improved based on the original Snake Game:
+## Rubric Points
+
+1. The project demonstrates an understanding of C++ functions and control structures.
+2. The project reads data from a file and process the data, or the program writes data to a file.
+3. The project accepts user input and processes the input.
+4. The project uses Object Oriented Programming techniques.
+5. Classes use appropriate access specifiers for class members.
+6. Classes encapsulate behavior.
+
+
+## Extension based on the original snake game
 
 1. Add a leaderboard recording the top 10 scores and players.
 2. Add an operator that gives player extra score points by generating extra food.
